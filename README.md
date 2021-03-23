@@ -2,7 +2,7 @@
 projects that I did
 
 
-[TPass](https://maxwelerning.github.io/projects/TPass/);
+[TPass](https://maxwelerning.github.io/projects/TPass/)
 
 [mailchimp](https://maxwelerning.github.io/projects/mailchimp/)
 
