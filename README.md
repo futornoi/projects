@@ -1,5 +1,5 @@
-                                                                                # Projects
-                                                                          ___projects that I did___
+# Projects
+projects that I did
 
 
 +[TPass](https://maxwelerning.github.io/projects/TPass/)
