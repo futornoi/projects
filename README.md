@@ -8,4 +8,4 @@
 
 [todoList](https://maxwelerning.github.io/projects/todoList/)
 
-[MarketPlace (Mob version)](https://maxwelerning.github.io/projects/MarketPlace/)
+[MarketPlace (Mob version)](https://maxwelerning.github.io/projects/MarketPlace/index.html)
