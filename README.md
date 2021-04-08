@@ -10,6 +10,6 @@
 
 [MarketPlace (Mob version)](https://maxwelerning.github.io/projects/MarketPlace/index.html)
 
-[Book store](https://maxwelerning.github.io/Book_Store/)
+[Book store (ReactJs)](https://maxwelerning.github.io/Book_Store/)
 
-[Web site](https://maxwelerning.github.io/react_learning/#/profile)
+[Web site (ReactJs)](https://maxwelerning.github.io/react_learning/#/profile)
