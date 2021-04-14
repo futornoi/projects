@@ -14,4 +14,4 @@
 
 [Web site (ReactJs)](https://maxwelerning.github.io/react_learning/#/profile)
 
-[responsive MarketPlace (purpule)](https://maxwelerning.github.io/MarketPlace (purpule)/)
+[responsive MarketPlace (purpule)](https://maxwelerning.github.io/projects/MarketPlace%20(purpule)/)
